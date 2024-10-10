@@ -1,0 +1,75 @@
+[
+    {
+      "id":1,
+      "image":"image1.jpg",
+      "name":"Jeffrey Abrams",
+      "age":51,
+      "profession":"Film Director, Producer",
+      "rate":"€14/hour",
+      "location":"New York, United States",
+      "description":"Abrams was born in New York City and raised in Los Angeles.",
+      "status":"Online",
+      "lastseen":null
+    },
+    {
+      "id":2,
+      "image":"image2.jpg",
+      "name":"Baltasar Kormakur",
+      "age":52,
+      "profession":"Actor, Film Director",
+      "rate":"€9/hour",
+      "location":"Reykjavik, Iceland",
+      "description":"Icelandic actor, theater and film director, and film producer.",
+      "status":"Offline",
+      "lastseen":"17 minutes ago"
+    },
+    {
+      "id":3,
+      "image":"image3.jpg",
+      "name":"Christopher Nolan",
+      "age":50,
+      "profession":"Film Director, Producer",
+      "rate":"€20/hour",
+      "location":"London, United Kingdom",
+      "description":"Nolan is known for making personal, distinctive films within the Hollywood mainstream.",
+      "status":"Online",
+      "lastseen":null
+    },
+    {
+      "id":4,
+      "image":"image4.jpg",
+      "name":"Quentin Tarantino",
+      "age":58,
+      "profession":"Film Director, Screenwriter",
+      "rate":"€18/hour",
+      "location":"Los Angeles, United States",
+      "description":"Tarantino's films are characterized by non-linear storylines and stylistic influences.",
+      "status":"Offline",
+      "lastseen":"2 days ago"
+    },
+    {
+      "id":5,
+      "image":"image5.jpg",
+      "name":"Sofia Coppola",
+      "age":49,
+      "profession":"Film Director, Producer",
+      "rate":"€15/hour",
+      "location":"California, United States",
+      "description":"Coppola is known for films exploring themes of loneliness, isolation, and personal identity.",
+      "status":"Online",
+      "lastseen":null
+    },
+    {
+      "id":6,
+      "image":"image6.jpg",
+      "name":"Ridley Scott",
+      "age":83,
+      "profession":"Film Director, Producer",
+      "rate":"€25/hour",
+      "location":"South Shields, United Kingdom",
+      "description":"Ridley Scott is a British filmmaker known for directing Blade Runner and Alien.",
+      "status":"Offline",
+      "lastseen":"5 hours ago"
+    }
+]
+  
